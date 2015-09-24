@@ -16,5 +16,5 @@ All the pages in the brandguide can be found in the `pages` folder. They are wri
 
 After you added this to your file just start typing in markdown, and the previews you see on GitHub should then reflect what's shown on the website. If you can't get it to work try to check the other `.md`-files for syntax help. Otherwise just ask around the office.
 
-### Hiding a file
-If you for any reason want to hide a page from the side menu just add `sidemenu: false` to the inital arguments.
+### Hiding from side menu
+If you for any reason want to hide a page from the table of contents just add `sidemenu: false` to the inital arguments.
