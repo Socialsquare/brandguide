@@ -13,14 +13,16 @@
 
 	    <div id="menu">
 		<div class="pure-menu">
-		    <a class="pure-menu-heading" href="/index.html"><img src="http://www.socialsquare.dk/wp-content/uploads/skitched-20150119-141545.png"></a>
+		    <a class="pure-menu-heading" href="{{ site.baseurl }}/index.html">
+			<img src="http://www.socialsquare.dk/wp-content/uploads/skitched-20150119-141545.png">
+		    </a>
 
 		    <ul class="pure-menu-list">
 			  {% for page in site.pages %}
 			    {% if page.layout == "page"  %}
 				{% if page.sidemenu != false %}
 				  <li class="pure-menu-item">
-					<a class="pure-menu-link" href="{{ page.url }}">{{ page.title }}</a>
+					<a class="pure-menu-link" href="{{ page.url | prepend: site.baseurl}}">{{ page.title }}</a>
 				  </li>
 				{% endif %}   <!-- sidemenu -->
 			    {% endif %}   <!-- layout -->
