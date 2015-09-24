@@ -19,7 +19,7 @@
 
 		    <ul class="pure-menu-list">
 			  {% for page in site.pages %}
-			  	{% if page.layout == page %}
+			  	{% if page.layout == "page" %}
 					{% if page.sidemenu != false %}
 					  <li class="pure-menu-item">
 						<a class="pure-menu-link" href="{{ page.url | prepend: site.baseurl}}">{{ page.title }}</a>
