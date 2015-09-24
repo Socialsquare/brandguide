@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: page
 title: Socialsquare Wiki
 sidemenu: false
 ---
 
 
-## Socialsquare Wiki
+## Socialsquare Brandguide
 
 
 
