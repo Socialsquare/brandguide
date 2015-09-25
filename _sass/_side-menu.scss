@@ -1,5 +1,7 @@
 body {
-    color: #777;
+    color: white;
+    background-color: #607D8B;
+    font-family: roboto
 }
 
 .pure-img-responsive {
@@ -41,22 +43,24 @@ The content `<div>` is where all your content goes.
 .content {
     margin: 0 auto;
     padding: 0 2em;
-    max-width: 800px;
+    max-width: 900px;
     margin-bottom: 50px;
     line-height: 1.6em;
+    font-size: 1.2em
 }
 
 .header {
+     font-weight: 900;
      margin: 0;
      color: #333;
      text-align: center;
-     padding: 2.5em 2em 0;
-     border-bottom: 1px solid #eee;
+     padding: 2.5em 2em 10px;
  }
     .header h1 {
         margin: 0.2em 0;
-        font-size: 3em;
-        font-weight: 300;
+        font-size: 6em;
+        font-weight: 900;
+	font-family: Roboto Condensed
     }
      .header h2 {
         font-weight: 300;
@@ -86,17 +90,22 @@ appears on the left side of the page.
     left: 0;
     bottom: 0;
     z-index: 1000; /* so the menu or its navicon stays above all content */
-    background: #191818;
+    background: #4DB6AC;
     overflow-y: auto;
     -webkit-overflow-scrolling: touch;
+    -moz-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
+    -webkit-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
 }
     /*
     All anchors inside the menu should be styled like this.
     */
     #menu a {
-        color: #999;
+        color: white;
         border: none;
         padding: 0.6em 0 0.6em 0.6em;
+	font-family: Roboto Condensed;
+	font-size: 1.2em
     }
 
     /*
@@ -107,27 +116,19 @@ appears on the left side of the page.
         border: none;
         background: transparent;
     }
-
-    /*
-    Add that light border to separate items into groups.
-    */
-    #menu .pure-menu ul,
-    #menu .pure-menu .menu-item-divided {
-        border-top: 1px solid #333;
-    }
         /*
         Change color of the anchor links on hover/focus.
         */
         #menu .pure-menu li a:hover,
         #menu .pure-menu li a:focus {
-            background: #333;
+            background: #26A69A;
         }
 
     /*
     This styles the selected menu item `<li>`.
     */
     #menu .pure-menu-selected,
-    #menu .pure-menu-heading {
+    #menu .pure-menu-heading{
         background: white;
     }
         /*

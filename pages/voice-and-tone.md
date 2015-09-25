@@ -1,7 +1,6 @@
 ---
 layout: page
 title:  "Voice and Tone"
-date:   2015-09-23 12:44:53
 ---
 
 
