@@ -1,6 +1,10 @@
+$color-body: hsl(212,45%,42%);
+$color-menu: hsl(212,100%,97%);
+$color-link: hsl(212,68%,44%);
+
 body {
-    color: white;
-    background-color: #607D8B;
+    color: rgba(255,255,255,0.8);
+    background-color: $color-body;
     font-family: roboto
 }
 
@@ -52,9 +56,8 @@ The content `<div>` is where all your content goes.
 .header {
      font-weight: 900;
      margin: 0;
-     color: #333;
      text-align: center;
-     padding: 2.5em 2em 10px;
+     padding: 2.8em;
  }
     .header h1 {
         margin: 0.2em 0;
@@ -90,7 +93,7 @@ appears on the left side of the page.
     left: 0;
     bottom: 0;
     z-index: 1000; /* so the menu or its navicon stays above all content */
-    background: #4DB6AC;
+    background: $color-menu;
     overflow-y: auto;
     -webkit-overflow-scrolling: touch;
     -moz-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
@@ -101,11 +104,12 @@ appears on the left side of the page.
     All anchors inside the menu should be styled like this.
     */
     #menu a {
-        color: white;
+        color: $color-link;
         border: none;
         padding: 0.6em 0 0.6em 0.6em;
 	font-family: Roboto Condensed;
-	font-size: 1.2em
+	font-size: 1.2em;
+	font-weight: 300;
     }
 
     /*
@@ -119,31 +123,22 @@ appears on the left side of the page.
         /*
         Change color of the anchor links on hover/focus.
         */
+	#menu .pure-menu-heading:hover,
         #menu .pure-menu li a:hover,
         #menu .pure-menu li a:focus {
-            background: #26A69A;
+            background: darken($color-menu,5%);
         }
 
-    /*
-    This styles the selected menu item `<li>`.
-    */
-    #menu .pure-menu-selected,
-    #menu .pure-menu-heading{
-        background: white;
+    #menu .pure-menu-selected a {
+	color: $color-body;
     }
-        /*
-        This styles a link within a selected menu item `<li>`.
-        */
-        #menu .pure-menu-selected a {
-            color: #fff;
-        }
     
     /*
     This styles the menu heading.
     */
     #menu .pure-menu-heading {
         font-size: 110%;
-        color: #fff;
+        color: $color-body;
         margin: 0;
     }
 
