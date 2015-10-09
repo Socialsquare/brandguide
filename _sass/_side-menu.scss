@@ -2,6 +2,8 @@ $color-body: hsl(212,45%,42%);
 $color-menu: hsl(212,100%,97%);
 $color-link: hsl(212,68%,44%);
 
+$menu-width: 250px;
+
 body {
     color: rgba(255,255,255,0.8);
     background-color: $color-body;
@@ -34,12 +36,12 @@ This is the parent `<div>` that contains the menu and the content area.
     padding-left: 0;
 }
     #layout.active #menu {
-        left: 300px;
-        width: 300px;
+        left: $menu-width;
+        width: $menu-width;
     }
 
     #layout.active .menu-link {
-        left: 300px;
+        left: $menu-width;
     }
 /*
 The content `<div>` is where all your content goes.
@@ -87,8 +89,8 @@ appears on the left side of the page.
 */
 
 #menu {
-    margin-left: -300px; /* "#menu" width */
-    width: 250px;
+    margin-left: -$menu-width; /* "#menu" width */
+    width: $menu-width;
     position: fixed;
     top: 0;
     left: 0;
@@ -216,21 +218,21 @@ Hides the menu at `48em`, but modify this based on your app's needs.
     }
 
     #layout {
-        padding-left: 300px; /* left col width "#menu" */
+        padding-left: $menu-width; /* left col width "#menu" */
         left: 0;
     }
     #menu {
-        left: 300px;
+        left: $menu-width;
     }
 
     .menu-link {
         position: fixed;
-        left: 300px;
+        left: $menu-width;
         display: none;
     }
 
     #layout.active .menu-link {
-        left: 300px;
+        left: $menu-width;
     }
 }
 
@@ -243,7 +245,12 @@ Hides the menu at `48em`, but modify this based on your app's needs.
     */
     #layout.active {
         position: relative;
-        left: 300px;
+        left: $menu-width;
     }
 }
 
+@media (max-width: 60em) {
+	.header{
+		font-size: 1.65vw;
+	}
+}
