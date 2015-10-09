@@ -4,6 +4,11 @@ $color-link: hsl(212,68%,44%);
 
 $menu-width: 250px;
 
+html {
+ -webkit-font-smoothing : antialiased;
+ -moz-osx-font-smoothing: grayscale;
+}
+
 body {
     color: rgba(255,255,255,0.8);
     background-color: $color-body;
