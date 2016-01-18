@@ -16,17 +16,17 @@ Go through the checklist for writing to ensure you have everything before delive
 
 As for editing your writing, George Orwell said it best:
 
-A scrupulous writer, in every sentence that he writes, will ask himself at least four questions, thus:  
-
-1.  What am I trying to say?
-2.  What words will express it?
-3.  What image or idiom will make it clearer?
-4.  Is this image fresh enough to have an effect?
-
-And he will probably ask himself two more: 
-
-- Could I put it more shortly?
-- Have I said anything that is avoidably ugly?
+>A scrupulous writer, in every sentence that he writes, will ask himself at least four questions, thus:  
+>
+>1.  What am I trying to say?
+>2.  What words will express it?
+>3.  What image or idiom will make it clearer?
+>4.  Is this image fresh enough to have an effect?
+>
+>And he will probably ask himself two more: 
+>
+>- Could I put it more shortly?
+>- Have I said anything that is avoidably ugly?
 
 ###We like to write about
 - The methods we use in Socialsquare  
