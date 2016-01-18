@@ -23,7 +23,8 @@ A scrupulous writer, in every sentence that he writes, will ask himself at least
 3.  What image or idiom will make it clearer?
 4.  Is this image fresh enough to have an effect?
 
-And he will probably ask himself two more:  
+And he will probably ask himself two more: 
+
 - Could I put it more shortly?
 - Have I said anything that is avoidably ugly?
 
