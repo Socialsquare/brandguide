@@ -31,7 +31,7 @@ _And he will probably ask himself two more:_
 * Socialsquare client case stories  
 * Knowledge sharing that will benefit others with an interest in our space.   
 
-**Checklist for writing**
+**Checklist for writing**  
 1. If there is a template in place, use it  
 2. Check your deadlines  
 3. Run spell check  
