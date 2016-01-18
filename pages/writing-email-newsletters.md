@@ -14,6 +14,7 @@ The most common types of content are
   * Links We Love Fridays
 
 All email newsletters should follow the same template and contain these elements:  
+
 - Logo at the top
 - Hierarchically distributed content
 - Call to action
