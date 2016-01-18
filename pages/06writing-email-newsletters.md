@@ -21,17 +21,17 @@ All email newsletters should follow the same template and contain these elements
 - Contact bar
 - Footer including social sharing, subscription preferences and contact information
 
-###From name and email 
+**From name and email**  
 This should always be Socialsquare and our general email. We also write as “we”.
 
-###Subject line
+**Subject line**  
 Keep it short, descriptive and without sales lingo.
 
-###Preheader text  
+**Preheader text**  
 This shows in the reader's inbox, after the subject line and should give a taste of what they can expect from the email.
 
-###Hierarchy  
+**Hierarchy**  
 Readers will skim emails. Use clear headings and put important content at the top. Make your call to actions clear. 
 
-###Testing
+**Testing**  
 Always test campaigns before sending them. Check that all links are pointing to the right directions, check your spelling and send the email to a coworker for a read through. 
