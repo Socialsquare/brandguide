@@ -26,10 +26,10 @@ _And he will probably ask himself two more:_
 - *Have I said anything that is avoidably ugly?*  
 
 **We like to write about**  
-- The methods we use in Socialsquare  
-- Opinions on relevant topics within our field  
-- Socialsquare client case stories  
-- Knowledge sharing that will benefit others with an interest in our space.   
+ -  The methods we use in Socialsquare  
+ -  Opinions on relevant topics within our field  
+ -  Socialsquare client case stories  
+ -  Knowledge sharing that will benefit others with an interest in our space.   
 
 **Checklist for writing**  
 1. If there is a template in place, use it  
