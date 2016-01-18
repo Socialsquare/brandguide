@@ -10,26 +10,29 @@ The person who knows the most about a subject is the best to tell about it to ot
 Every blog post ties back to our mission to enhance the open, digital society and to maximize value for our clients.  
 We want to show that we do as we preach, and use our blog to tell that story. 
 
-**When writing a blog post**  
+###When writing a blog post
 Make sure you refer to the section on voice and tone so your writing is consistent with Socialsquare’s personality.   
 Go through the checklist for writing to ensure you have everything before delivering your material. 
 
-As for editing your writing, George Orwell said it best:  
-_A scrupulous writer, in every sentence that he writes, will ask himself at least four questions, thus:_  
-_1. What am I trying to say?_  
-_2. What words will express it?_  
-_3. What image or idiom will make it clearer?_  
-_4. Is this image fresh enough to have an effect?_  
+As for editing your writing, George Orwell said it best:
 
-_And he will probably ask himself two more:_  
-- *Could I put it more shortly?*   
-- *Have I said anything that is avoidably ugly?*  
+A scrupulous writer, in every sentence that he writes, will ask himself at least four questions, thus:  
+
+1.  What am I trying to say?
+2.  What words will express it?
+3.  What image or idiom will make it clearer?
+4.  Is this image fresh enough to have an effect?
+
+And he will probably ask himself two more:  
+- Could I put it more shortly?
+- Have I said anything that is avoidably ugly?
+
 
 ###We like to write about
--   The methods we use in Socialsquare  
--   Opinions on relevant topics within our field  
--   Socialsquare client case stories  
--   Knowledge sharing that will benefit others with an interest in our space.   
+- The methods we use in Socialsquare  
+- Opinions on relevant topics within our field  
+- Socialsquare client case stories  
+- Knowledge sharing that will benefit others with an interest in our space.   
 
 ###Checklist for writing
 1. If there is a template in place, use it  
