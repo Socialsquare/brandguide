@@ -28,7 +28,6 @@ And he will probably ask himself two more:
 - Could I put it more shortly?
 - Have I said anything that is avoidably ugly?
 
-
 ###We like to write about
 - The methods we use in Socialsquare  
 - Opinions on relevant topics within our field  
