@@ -7,11 +7,11 @@ title:  "Writing Email Newsletters"
 
 Every week Socialsquare send out a newsletter.  
 The purpose of the newsletter is to provide relevant and interesting information to our community of digital professionals.  
-The most common types of content are  
-	* Excerpts from our most recent blog post
- * Event invitations
-  * Knowledge sharing from events we’ve held
-  * Links We Love Fridays
+The most common types of content are    
+Excerpts from our most recent blog post
+Event invitations
+Knowledge sharing from events we’ve held
+Links We Love Fridays
 
 All email newsletters should follow the same template and contain these elements:  
 
