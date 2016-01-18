@@ -28,6 +28,6 @@ We challenge the current status if its needed and are not afraid to voice our op
 We engage in conversations with our audience, but without telling them what to do. Feedback and questions make us better and are always welcome.  
 When we discuss an issue we suggest a solution or at least a point of action to it.
 
-***We keep our audience in mind***
+***We keep our audience in mind***  
 Digital professionals read Socialsquare’s blog, newsletters and other written content. Do not dumb down your content on their behalf. 
 However, keep in mind that they come from a variety of different backgrounds, so define your terms and give relevant background information when needed. 
