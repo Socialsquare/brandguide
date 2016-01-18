@@ -22,14 +22,14 @@ _3. What image or idiom will make it clearer?_
 _4. Is this image fresh enough to have an effect?_  
 
 _And he will probably ask himself two more:_  
-* *Could I put it more shortly?*   
-* *Have I said anything that is avoidably ugly?*  
+- *Could I put it more shortly?*   
+- *Have I said anything that is avoidably ugly?*  
 
 **We like to write about**  
-* The methods we use in Socialsquare  
-* Opinions on relevant topics within our field  
-* Socialsquare client case stories  
-* Knowledge sharing that will benefit others with an interest in our space.   
+- The methods we use in Socialsquare  
+- Opinions on relevant topics within our field  
+- Socialsquare client case stories  
+- Knowledge sharing that will benefit others with an interest in our space.   
 
 **Checklist for writing**  
 1. If there is a template in place, use it  
