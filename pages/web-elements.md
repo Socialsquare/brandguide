@@ -24,9 +24,9 @@ Write the sentence as you normally would and link the relevant words.
 Do not spell out the link, write “click here” and do not include punctuation marks, spaces or preceding articles in the linked text. 
 
 _How to:_
-Socialsquare’s organisation is based on Holacracy.
+Socialsquare’s organisation is based on [Holacracy](www.holacracy.org).
 
 _How not to:_
-Socialsquare’s organisation is based on Holacracy.  
-Socialsquare’s organisation is based on Holacracy (holacracy.org).  
-Socialsquare’s organisation is based on Holacracy (click here to read more).  
+Socialsquare’s organisation is based on [Holacracy.](www.holacracy.org)  
+Socialsquare’s organisation is based on Holacracy [(holacracy.org)](www.holacracy.org).    
+Socialsquare’s organisation is based on Holacracy ([click here](www.holacracy.org) to read more).  
