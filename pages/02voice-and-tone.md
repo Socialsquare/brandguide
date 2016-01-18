@@ -6,8 +6,8 @@ title:  "Voice and Tone"
 
 ##Voice and tone in writing style
 
-Any communication from Socialsquare should show excellence, openness and courage to challenge.
-  It should be presented with a friendliness and straightforwardness that reflect Socialsquare’s open culture and personality. 
+Any communication from Socialsquare should show excellence, openness and courage to challenge.  
+It should be presented with a friendliness and straightforwardness that reflect Socialsquare’s open culture and personality. 
 
 _We are clear and concise and without jargon._  
 Be clear in your words and do not build unnecessary long sentences. They obscure your point and are difficult to read online. While details can be a colorful addition, do not use them unless they are crucial to the point you want to get across.  
