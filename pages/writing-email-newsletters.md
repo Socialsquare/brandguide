@@ -8,17 +8,17 @@ title:  "Writing Email Newsletters"
 Every week Socialsquare send out a newsletter.  
 The purpose of the newsletter is to provide relevant and interesting information to our community of digital professionals.  
 The most common types of content are  
-  * Excerpts from our most recent blog post
-  * Event invitations
+	* Excerpts from our most recent blog post
+ * Event invitations
   * Knowledge sharing from events we’ve held
   * Links We Love Fridays
 
 All email newsletters should follow the same template and contain these elements:  
- * Logo at the top
- * Hierarchically distributed content
- * Call to action
- * Contact bar
- * Footer including social sharing, subscription preferences and contact information
+- Logo at the top
+- Hierarchically distributed content
+- Call to action
+- Contact bar
+- Footer including social sharing, subscription preferences and contact information
 
 *From name and email*  
 This should always be Socialsquare and our general email. We also write as “we”.
