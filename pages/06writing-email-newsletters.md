@@ -3,8 +3,6 @@ layout: page
 title:  "Writing Email Newsletters"
 ---
 
-##Writing Email Newsletters
-
 Every week Socialsquare send out a newsletter.  
 The purpose of the newsletter is to provide relevant and interesting information to our community of digital professionals.  
 The most common types of content are    
