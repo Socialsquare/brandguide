@@ -3,8 +3,6 @@ layout: page
 title:  "Grammar and Build"
 ---
 
-##Grammar and build
-
 **Basics**  
 Write for every reader.  
 Some of our readers will read every word of a text, some will just skim, looking for the highlights. Make it easy for both types to read your text and understand your take aways.  
