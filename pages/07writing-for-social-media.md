@@ -3,8 +3,6 @@ layout: page
 title:  "Writing For Social Media"
 ---
 
-##Writing for Social Media
-
 Make sure you refer to the section on voice and tone so your writing is consistent with Socialsquare’s personality. 
 
 **Ownerships of posts**  
