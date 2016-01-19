@@ -3,8 +3,6 @@ layout: page
 title:  "Writing Blog Posts"
 ---
 
-##Writing Blog Posts
-
 In Socialsquare anyone can (take the role as blog post writer and) contribute to the company blog.  
 The person who knows the most about a subject is the best to tell about it to others, which is why we encourage all team members to contribute with blog posts about their work, passions and skills in tune with the work we do at Socialsquare.  
 Every blog post ties back to our mission to enhance the open, digital society and to maximize value for our clients.  
