@@ -3,9 +3,6 @@ layout: page
 title:  "Voice and Tone"
 ---
 
-
-##Voice and tone in writing style
-
 Any communication from Socialsquare should show excellence, openness and courage to challenge.  
 It should be presented with a friendliness and straightforwardness that reflect Socialsquare’s open culture and personality. 
 
