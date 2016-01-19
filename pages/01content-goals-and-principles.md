@@ -3,8 +3,6 @@ layout: page
 title:  "Content Goals and Principles"
 ---
 
-##Content Goals and Principles
-
 We communicate with the purpose to guide, connect, challenge and enable our audience.
 
 >***Guide***   
