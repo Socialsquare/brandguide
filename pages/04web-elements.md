@@ -3,8 +3,6 @@ layout: page
 title:  "Web Elements"
 ---
 
-##Web Elements
-
 **SEO**  
 We always write for the people who read the texts, not for search engines.  
 To make your text easy to read and easy to search for, there are a few points you should implement:  
